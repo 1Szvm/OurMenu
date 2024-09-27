@@ -1,0 +1,12 @@
+.container{
+  min-height: 100vh;
+  padding: 0;
+}
+
+.sticky{
+  position: sticky;
+  top:0
+}
+.categ{
+  cursor: pointer;
+}
